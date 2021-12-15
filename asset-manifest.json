@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kaikas_extesnion_test/static/css/main.6ab79066.chunk.css",
+    "main.js": "/kaikas_extesnion_test/static/js/main.2eaf837c.chunk.js",
+    "main.js.map": "/kaikas_extesnion_test/static/js/main.2eaf837c.chunk.js.map",
+    "runtime-main.js": "/kaikas_extesnion_test/static/js/runtime-main.f1ef0777.js",
+    "runtime-main.js.map": "/kaikas_extesnion_test/static/js/runtime-main.f1ef0777.js.map",
+    "static/js/2.2cf7392e.chunk.js": "/kaikas_extesnion_test/static/js/2.2cf7392e.chunk.js",
+    "static/js/2.2cf7392e.chunk.js.map": "/kaikas_extesnion_test/static/js/2.2cf7392e.chunk.js.map",
+    "static/js/3.43b8caed.chunk.js": "/kaikas_extesnion_test/static/js/3.43b8caed.chunk.js",
+    "static/js/3.43b8caed.chunk.js.map": "/kaikas_extesnion_test/static/js/3.43b8caed.chunk.js.map",
+    "index.html": "/kaikas_extesnion_test/index.html",
+    "static/css/main.6ab79066.chunk.css.map": "/kaikas_extesnion_test/static/css/main.6ab79066.chunk.css.map",
+    "static/js/2.2cf7392e.chunk.js.LICENSE.txt": "/kaikas_extesnion_test/static/js/2.2cf7392e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kaikas_extesnion_test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1ef0777.js",
+    "static/js/2.2cf7392e.chunk.js",
+    "static/css/main.6ab79066.chunk.css",
+    "static/js/main.2eaf837c.chunk.js"
+  ]
+}
