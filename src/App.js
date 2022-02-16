@@ -602,7 +602,7 @@ const abi = [
   },
 ];
 
-const CONTRACT_ADDRESS = "0xF9D640Dd2502ECFFb8890490b3da2bd0b4bd814a";
+const CONTRACT_ADDRESS = "0x8A40Fe3fc3A490Ce093d34F9B0F905f4a648c28d";
 
 function App() {
   let user_account;
