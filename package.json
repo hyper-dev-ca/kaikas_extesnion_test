@@ -1,6 +1,5 @@
 {
-  "homepage": "https://dev-jiwon.github.io/kaikas_extesnion_test/",
-  "name": "kaikas_extesnion_test",
+  "name": "test-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
